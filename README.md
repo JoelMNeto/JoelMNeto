@@ -45,9 +45,6 @@ Meu nome é Joel Marçola Neto, e este é meu repositório no Github.
 <a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git"/>
 </a>
-<a href="https://about.gitlab.com/">
-  <img src="https://skillicons.dev/icons?i=gitlab"/>
-</a>
 <a href="https://npmjs.com">
   <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
 </a>
@@ -71,7 +68,7 @@ Meu nome é Joel Marçola Neto, e este é meu repositório no Github.
 <a href="https://www.postman.com">
   <img src="https://i.postimg.cc/QNyBTNVk/postman.png" width="48" height="48"/>
 </a>
-<a href="https://github.com/pt" >
+<a href="https://github.com" >
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 <a href="https://git-scm.com" >
@@ -79,6 +76,9 @@ Meu nome é Joel Marçola Neto, e este é meu repositório no Github.
 </a>
 <a href="https://www.adobe.com/br/products/photoshop.html" >
   <img src="https://skillicons.dev/icons?i=ps"/>
+</a>
+  <a href="https://about.gitlab.com/">
+  <img src="https://skillicons.dev/icons?i=gitlab"/>
 </a>
 </div>
 
