@@ -1,6 +1,6 @@
 ## 🔰 Olá, seja bem-vindo!
 
-### Meu nome é Joel Marçola Neto, e este é meu repositório no Github. <img src="" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+### Meu nome é Joel Marçola Neto, e este é meu repositório no Github. <img src="./assets/pc4.jpg" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 <br>
 
@@ -9,7 +9,7 @@
 - 🏫 Sou graduando em Análise e desenvolvimento de sistemas no IFSP.
 - 📫 Encontre meu perfil no <a href="https://www.linkedin.com/in/joelmarcolaneto" target="_blank">Linkedin</a> para mais informações.
 
-  <br>
+<br>
 
 ## :computer: Principais competências
 
@@ -74,7 +74,6 @@
   <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
 </a>
 </div>
-
 
 ## 🚀 Estatísticas
 
