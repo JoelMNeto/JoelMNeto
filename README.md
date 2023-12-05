@@ -1,6 +1,6 @@
 ## 🔰 Olá, seja bem-vindo!
 
-### Meu nome é Joel Marçola Neto, e este é meu repositório no Github. <img src="./assets/pc4.jpg" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+### Meu nome é Joel Marçola Neto, e este é meu repositório no Github. <!--img src="" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right"-->
 
 <br>
 
@@ -43,6 +43,8 @@
 </a>
 </div>
 
+<br>
+
 ## ⚙️ Ferramentas
 
 <div>
@@ -74,6 +76,8 @@
   <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
 </a>
 </div>
+
+<br>
 
 ## 🚀 Estatísticas
 
