@@ -6,7 +6,7 @@
 
 - 📌 I live in Araraquara, São Paulo, Brazil.
 - 🏢 Currently, I´m work as a Development Intern at <a href="https://shx.com.br/solucao/" target="_blank">SHX Informática</a>.
-- 🎓 I´m Student of Systems Analysis and Development on IFSP.
+- 🎓 I´m Systems Analysis and Development student on IFSP (Technology Federal Institute).
 - 📫 Find my profile on <a href="https://www.linkedin.com/in/joelmarcolaneto" target="_blank">Linkedin</a> to learn more.
 
 <br>
