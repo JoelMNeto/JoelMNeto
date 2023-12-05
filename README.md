@@ -11,7 +11,7 @@
 
 <br>
 
-## :computer: Principais competências
+## 💻 Principais competências
 
 <div>
 <a href="https://angular.io/">
