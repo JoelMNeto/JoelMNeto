@@ -5,7 +5,7 @@
 <br>
 
 - 📌 I live in Araraquara, São Paulo, Brazil.
-- 🏢 I currently work as a Development Intern at <a href="https://shx.com.br/solucao/" target="_blank">SHX Informática</a>.
+- 🏢 Currently, I´m work as a Development Intern at <a href="https://shx.com.br/solucao/" target="_blank">SHX Informática</a>.
 - 🎓 I´m Student of Systems Analysis and Development on IFSP.
 - 📫 Find my profile on <a href="https://www.linkedin.com/in/joelmarcolaneto" target="_blank">Linkedin</a> to learn more.
 
@@ -105,6 +105,6 @@
 
 <br>
 
-### <a href="./README-en.md">Read this page in English.</a>  
+### <a href="https://github.com/JoelMNeto/JoelMNeto/blob/main/./README-en.md">Read this page in English.</a>  
 
-### <a align="rigth" href="./README.md">Leia esta página em Português.</a>
+### <a align="rigth" href="https://github.com/JoelMNeto/JoelMNeto/blob/main/README.md">Leia esta página em Português.</a>
