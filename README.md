@@ -6,7 +6,7 @@
 
 - 📌 Moro em Araraquara, São Paulo, Brasil.
 - 🏢 Atualmente, trabalho como Estagiário de Desenvolvimento na <a href="https://shx.com.br/solucao/" target="_blank">SHX Informática</a>.
-- 🎓 Estudante de Análise e desenvolvimento de sistemas no IFSP.
+- 🎓 Sou estudante de Análise e desenvolvimento de sistemas no IFSP.
 - 📫 Encontre meu perfil no <a href="https://www.linkedin.com/in/joelmarcolaneto" target="_blank">Linkedin</a> para mais informações.
 
 <br>
