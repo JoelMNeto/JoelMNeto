@@ -4,7 +4,7 @@
 
 <br>
 
-- 📌 Moro em Araraquara, SP, Brasil.
+- 📌 Moro em Araraquara, São Paulo, Brasil.
 - 🏢 Atualmente, trabalho como Estagiário de desenvolvimento na <a href="https://shx.com.br/solucao/" target="_blank">SHX Informática</a>.
 - 🏫 Sou graduando em Análise e desenvolvimento de sistemas no IFSP.
 - 📫 Encontre meu perfil no <a href="https://www.linkedin.com/in/joelmarcolaneto" target="_blank">Linkedin</a> para mais informações.
