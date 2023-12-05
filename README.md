@@ -100,3 +100,11 @@
     <img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=JoelMNeto&amp;theme=radical">
   </a>
 </div>
+
+##
+
+<br>
+
+### <a href="./README-en.md">Read this page in English.</a>  
+
+### <a align="rigth" href="./README.md">Leia esta página em Português.</a>
