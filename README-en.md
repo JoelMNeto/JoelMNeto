@@ -1,17 +1,17 @@
-## Olá, seja bem-vindo!
+## Hello, welcome!
 
-### Meu nome é Joel Marçola Neto, e este é meu repositório no Github. 
-
-<br>
-
-- 📌 Moro em Araraquara, São Paulo, Brasil.
-- 🏢 Atualmente, trabalho como Estagiário de Desenvolvimento na <a href="https://shx.com.br/solucao/" target="_blank">SHX Informática</a>.
-- 🎓 Graduando em Análise e desenvolvimento de sistemas no IFSP.
-- 📫 Encontre meu perfil no <a href="https://www.linkedin.com/in/joelmarcolaneto" target="_blank">Linkedin</a> para mais informações.
+### My name is Joel Marçola Neto and this is my Github repository.
 
 <br>
 
-## 💻 Principais competências
+- 📌 I live in Araraquara, São Paulo, Brazil.
+- 🏢 I currently work as a Development Intern at <a href="https://shx.com.br/solucao/" target="_blank">SHX Informática</a>.
+- 🎓 Student of Systems Analysis and Development on IFSP.
+- 📫 Find my profile on <a href="https://www.linkedin.com/in/joelmarcolaneto" target="_blank">Linkedin</a> to learn more.
+
+<br>
+
+## 💻 Main skills
 
 <div>
   <a href="https://angular.io/" target="_blank">
@@ -45,7 +45,7 @@
 
 <br>
 
-## ⚙️ Ferramentas
+## ⚙️ Tolls
 
 <div>  
   <a href="https://code.visualstudio.com" target="_blank">
@@ -79,7 +79,7 @@
 
 <br>
 
-## 📱 Contato 
+## 📱 Contact
 <div>
   <a href="https://www.linkedin.com/in/joelmarcolaneto" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
@@ -91,7 +91,7 @@
 
 <br>
 
-## 🚀 Estatísticas
+## 🚀 Statistics
 
 <div>
   <a href="https://github.com/JoelMNeto">
