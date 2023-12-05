@@ -1,21 +1,17 @@
-### Olá, seja bem-vindo!
+## 🔰 Olá, seja bem-vindo!
 
-Meu nome é Joel Marçola Neto, e este é meu repositório no Github.
+### Meu nome é Joel Marçola Neto, e este é meu repositório no Github. <img src="" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-<!--Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joelmarcolaneto" target="_blank">     
+- 📌 Moro em Araraquara, SP, Brasil.
+- 🏢 Atualmente, trabalho como Desenvolvedor web na <a href="https://shx.com.br/solucao/">SHX Informática</a>.
+- 🏫 Sou graduando em Análise e desenvolvimento de sistemas no IFSP.
+- 📫 Encontre meu perfil no <a href="https://www.linkedin.com/in/joelmarcolaneto" target="_blank">Linkedin</a> para mais informações.
 
-## :computer: Tecnologias
+  <br>
+
+## :computer: Principais competências
 
 <div>
 <a href="https://angular.io/">
@@ -42,15 +38,6 @@ Meu nome é Joel Marçola Neto, e este é meu repositório no Github.
 <a href="https://www.typescriptlang.org/pt/">
   <img src="https://skillicons.dev/icons?i=ts"/>
 </a>
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git"/>
-</a>
-<a href="https://npmjs.com">
-  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
-</a>
-<a href="https://www.postgresql.org">
-  <img src="https://skillicons.dev/icons?i=postgres"/>
-</a>
 <a href="https://www.w3schools.com/c/">
   <img src="https://skillicons.dev/icons?i=c"/>
 </a>
@@ -68,22 +55,28 @@ Meu nome é Joel Marçola Neto, e este é meu repositório no Github.
 <a href="https://www.postman.com">
   <img src="https://i.postimg.cc/QNyBTNVk/postman.png" width="48" height="48"/>
 </a>
+<a href="https://git-scm.com" >
+  <img src="https://skillicons.dev/icons?i=git"/>
+</a>
 <a href="https://github.com" >
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-<a href="https://git-scm.com" >
-  <img src="https://skillicons.dev/icons?i=git"/>
+<a href="https://about.gitlab.com/">
+  <img src="https://skillicons.dev/icons?i=gitlab"/>
+</a>
+<a href="https://www.postgresql.org">
+  <img src="https://skillicons.dev/icons?i=postgres"/>
 </a>
 <a href="https://www.adobe.com/br/products/photoshop.html" >
   <img src="https://skillicons.dev/icons?i=ps"/>
 </a>
-  <a href="https://about.gitlab.com/">
-  <img src="https://skillicons.dev/icons?i=gitlab"/>
+  <a href="https://npmjs.com">
+  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
 </a>
 </div>
 
 
-## Estatísticas
+## 🚀 Estatísticas
 
 <div>
 <a href="https://github.com/JoelMNeto">
