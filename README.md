@@ -105,6 +105,6 @@
 
 <br>
 
-### <a href="./README-en.md">Read this page in English.</a>  
+### <a href="https://github.com/JoelMNeto/JoelMNeto/blob/main/./README-en.md">Read this page in English.</a>  
 
-### <a align="rigth" href="./README.md">Leia esta página em Português.</a>
+### <a align="rigth" href="https://github.com/JoelMNeto/JoelMNeto/blob/main/README.md">Leia esta página em Português.</a>
