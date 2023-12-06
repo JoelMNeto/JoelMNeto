@@ -1,6 +1,6 @@
-## Hello, welcome!
+## Hello, welcome!!
 
-### My name is Joel Marçola Neto and this is my Github repository.
+### My name is Joel Marçola Neto and this is my Github repository. <img  alt="ilustração de um computador" min-width="220px" max-width="220px" width="220px" align="right" src="assets/imagemComputador.png"/>
 
 <br>
 
